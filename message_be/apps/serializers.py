@@ -1,0 +1,1 @@
+from message_be.apps.serializers_container import *
